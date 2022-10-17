@@ -1,2 +1,2 @@
-# Fan-site
-A Fan website for something
+# PixelCrate
+A website to post my pixelart
